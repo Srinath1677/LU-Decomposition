@@ -8,11 +8,11 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.Import numpy library using import statement 
-2.From scipy package import lu()
-3.Get input from user and pass it as an array
-4.Get P,L,U matric using lu() 
-5.Print L and U matrix
+1.Import numpy library using import statement   
+2.From scipy package import lu()  
+3.Get input from user and pass it as an array  
+4.Get P,L,U matric using lu()   
+5.Print L and U matrix  
 
 ## Program:
 (i) To find the L and U matrix
@@ -51,8 +51,10 @@ print(X)
 
 ## Output:
 
-![434618426-58368442-837e-4c25-80b9-aa29b91ca41b](https://github.com/user-attachments/assets/06881e91-0ba2-4ee2-96cc-af559fdecd73)
-![434618475-f0e7a618-e4a9-47fb-9abd-083504db4a8b](https://github.com/user-attachments/assets/942eeba7-7bda-4d18-84fd-6c748b75640d)
+![image](https://github.com/user-attachments/assets/252fa370-82c7-4c78-8f84-aa021783cb82)
+
+![image](https://github.com/user-attachments/assets/f7db5a36-322f-43c1-a3cd-e4b7ba0663fb)
+
 
 
 
