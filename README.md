@@ -32,6 +32,14 @@ print(L)
 print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
+## Algorithm 
+
+1. Take input for matrix `A` and vector `b` as NumPy arrays.
+2. Perform LU decomposition on `A` using `lu_factor()`.
+3. Solve the linear system using `lu_solve()` with the LU factors and `b`.
+4. Print the solution vector `X`.
+5. End the program.
+
 ```
 /*
 Program to find the LU Decomposition of a matrix.
